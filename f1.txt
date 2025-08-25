@@ -1,9 +1,9 @@
-<<<<<<< Updated upstream
 #JIRA-102
 public void m2(){
     System.out.println("Priority Task Executed...");
 }
-=======
+
+
 #JIRA-101
 This is the file F1.txt especially designed for the F1 racers.
 
