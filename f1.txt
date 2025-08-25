@@ -6,5 +6,3 @@ public void m2(){
 
 #JIRA-101
 This is the file F1.txt especially designed for the F1 racers.
-
-This line is appended after the git stash command.
