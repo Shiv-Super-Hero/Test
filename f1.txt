@@ -1,6 +1,11 @@
 #JIRA-102
 public void m2(){
-    System.out.println("Priority Task Executed...");
+	System.out.println("Priority Task Executed...");
+	
+	String name = "java";
+	int n = name.length();
+	
+	System.out.println("Variable assigned and length calculated.");
 }
 
 
